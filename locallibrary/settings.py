@@ -86,7 +86,7 @@ DATABASES = {
         'NAME': 'local_library',
         'USER': 'local_library',
         'PASSWORD': 'asdf1234',
-        'HOST': 'rds-postgresql-demo.c6pkffcrrwx8.ap-northeast-2.rds.amazonaws.com',
+        'HOST': 'locallibrary-dev.c6pkffcrrwx8.ap-northeast-2.rds.amazonaws.com',
         'PORT': '5432',
     }
 }
